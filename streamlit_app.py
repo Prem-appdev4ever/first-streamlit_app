@@ -1,7 +1,7 @@
 import streamlit
 import pandas
 
-streamlit.title( 'FAVOURITES')
+streamlit.title('FAVOURITES')
 
 
 
