@@ -1,6 +1,7 @@
 import streamlit
+import simple colors
 
-streamlit.title('my parents new healthy diner')
+streamlit.title( Green'my parents new healthy diner')
 
 streamlit .header ('Breaky Menu')
 streamlit.text('Bread & Omlette')
