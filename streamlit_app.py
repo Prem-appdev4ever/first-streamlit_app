@@ -11,7 +11,7 @@ streamlit.text('🐔Hungry Jacks Burger & happy meal')
 streamlit.text ('🥑Mc donalds haapy meal')
 
 
-eamlit .header ('🥑Fruit Smoothie🥑')
+Streamlit.header('🥑Fruit Smoothie🥑')
 
 
 import pandas
