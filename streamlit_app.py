@@ -1,5 +1,5 @@
 import streamlit
-import simple colors
+import colors
 
 streamlit.title( Green'my parents new healthy diner')
 
